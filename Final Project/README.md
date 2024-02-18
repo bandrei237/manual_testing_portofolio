@@ -11,7 +11,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
-
+![!](https://github.com/bandrei237/manual_testing_portofolio/blob/main/Final%20Project/image.png!)
 
 # 1 Testing section
 ## 1.1 Test Planning
